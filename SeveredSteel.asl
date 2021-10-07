@@ -46,7 +46,7 @@ gameTime
 
 update
 {
-    print(current.IGT.ToString());
+//    print(current.IGT.ToString());
 }
 
 isLoading
